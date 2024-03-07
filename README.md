@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my World
 
-- 🌱 I’m currently learning and here you can find resources to learn with me!
+- 🌱 I’m constantly learning and here you can find resources to learn with me!
 - 🔭 I’m currently working on several DevOps projects
 - 👯 I’m looking to collaborate on learning and help people learn about DevOps
 - 💬 Ask me about [DevOps](https://devops.com/)
