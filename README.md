@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning and here you can find resources to learn with me!
 <!--
 **cdm227/cdm227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
