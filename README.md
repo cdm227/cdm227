@@ -8,8 +8,9 @@
 I'm a DevOps-oriented Technical Business Analyst with 7+ years of experience driving digital transformation across FinTech, cloud, and platform integration domains. My expertise bridges development, QA, and operations, with a strong focus on automation, scalability, and secure systems.
 
 🔹 I've led end-to-end API integrations (RESTful / JSON), CI/CD pipeline design (Jenkins, GitHub Actions, GitLab CI), and Infrastructure-as-Code with Terraform & Ansible.  
-🔹 Skilled in troubleshooting complex production issues, managing system configurations, and debugging using tools like Postman, ELK Stack, and Putty/SSH.  
-🔹 Delivered enterprise migrations (e.g., FIS CMS from C++ to Java), ISO-compliant API transformations, and 3DS SDK configurations across banking platforms.  
+🔹 Skilled in troubleshooting complex production issues, managing system configurations, and debugging using tools like Postman, ELK Stack, and Putty/SSH. 
+🔹 Delivered enterprise migrations (e.g., FIS CMS from C++ to Java), ISO-compliant API transformations, and 3DS SDK configurations across banking platforms.
+🔹 Successfully managed a large-scale migration from GitLab CI to GitHub Actions, creating structured migration plans, automating daily progress reports, and mitigating risks across multiple repositories.
 🔹 Passionate about cloud (AWS, GCP), observability, and collaborative DevOps culture — with hands-on experience in BDD, API testing (Rest Assured, Selenium), and stakeholder engagement.  
 🔹 I love building efficient, automated solutions that empower cross-functional teams and improve service delivery at scale.
 
@@ -40,30 +41,40 @@ I'm a DevOps-oriented Technical Business Analyst with 7+ years of experience dri
 [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 [![SSH](https://img.shields.io/badge/-SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)](https://www.openssh.com/)
 [![HAProxy](https://img.shields.io/badge/-HAProxy-000000?style=for-the-badge&logo=haproxy&logoColor=white)](http://www.haproxy.org/)
+[![MuleSoft](https://img.shields.io/badge/-MuleSoft-FF6A13?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/)
+[![PuTTY](https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/)
+[![ServiceNow](https://img.shields.io/badge/-ServiceNow-008376?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
+[![MuleSoft CloudHub](https://img.shields.io/badge/-CloudHub-FF6A13?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/platform/cloudhub)
+[![MuleSoft Anypoint](https://img.shields.io/badge/-Anypoint%20Platform-FF6A13?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/platform/anypoint)
 
 #### 📊 Monitoring & Logging
 [![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/kibana/)
 [![Logstash](https://img.shields.io/badge/-Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white)](https://www.elastic.co/logstash)
 [![ElasticSearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 
 #### 🧪 Testing & QA
 [![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white)](https://rest-assured.io/)
 [![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
+[![Percy](https://img.shields.io/badge/-Percy-5D3B7C?style=for-the-badge&logo=percy&logoColor=white)](https://www.percy.io/)
 
 #### 🛠️ Tools & Docs
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![SoapUI](https://img.shields.io/badge/-SoapUI-6CB33F?style=for-the-badge&logo=soapui&logoColor=white)](https://www.soapui.org/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://drawio-app.com/)
-[![UML](https://img.shields.io/badge/-UML-000000?style=for-the-badge)]()
+[![Mural](https://img.shields.io/badge/-Mural-F04E98?style=for-the-badge&logo=mural&logoColor=white)](https://www.mural.co/)
+[![Miro](https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
+[![UML](https://img.shields.io/badge/-UML-000000?style=for-the-badge)](https://www.uml.org/)
 
 #### 💳 FinTech
-[![PCI DSS](https://img.shields.io/badge/-PCI%20DSS-0033A0?style=for-the-badge)]()
-[![SEPA](https://img.shields.io/badge/-SEPA-0033A0?style=for-the-badge)]()
-[![3DS](https://img.shields.io/badge/-3DSecure-0085CA?style=for-the-badge)]()
-[![Core Banking](https://img.shields.io/badge/-Core%20Banking-0A0A0A?style=for-the-badge)]()
+[![PCI DSS](https://img.shields.io/badge/-PCI%20DSS-0033A0?style=for-the-badge)](https://www.pcisecuritystandards.org/)
+[![SEPA](https://img.shields.io/badge/-SEPA-0033A0?style=for-the-badge)](https://www.ecb.europa.eu/paym/integration/retail/sepa/html/index.en.html)
+[![3DS](https://img.shields.io/badge/-3DSecure-0085CA?style=for-the-badge)](https://www.modirum.com/news/modirum-acs-now-emv-3ds-22-certified)
+[![Core Banking](https://img.shields.io/badge/-Core%20Banking-0A0A0A?style=for-the-badge)](https://www.ibm.com/think/topics/core-banking)
 
 ---
 
