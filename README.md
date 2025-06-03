@@ -5,14 +5,21 @@
 
 ### 🚀 About Me  
 
-I'm a DevOps-oriented Technical Business Analyst with 7+ years of experience driving digital transformation across FinTech, cloud, and platform integration domains. My expertise bridges development, QA, and operations, with a strong focus on automation, scalability, and secure systems.
+I'm a DevOps-oriented Technical Business Analyst with 7+ years of experience driving digital transformation across FinTech, cloud, and platform integration domains. 
+My expertise bridges development, QA, and operations, with a strong focus on automation, scalability, and secure systems.
 
 🔹 I've led end-to-end API integrations (RESTful / JSON), CI/CD pipeline design (Jenkins, GitHub Actions, GitLab CI), and Infrastructure-as-Code with Terraform & Ansible.  
+
 🔹 Skilled in troubleshooting complex production issues, managing system configurations, and debugging using tools like Postman, ELK Stack, and Putty/SSH. 
+
 🔹 Delivered enterprise migrations (e.g., FIS CMS from C++ to Java), ISO-compliant API transformations, and 3DS SDK configurations across banking platforms.
-🔹 Successfully managed a large-scale migration from GitLab CI to GitHub Actions, creating structured migration plans, automating daily progress reports, and mitigating risks across multiple repositories.
+
 🔹 Passionate about cloud (AWS, GCP), observability, and collaborative DevOps culture — with hands-on experience in BDD, API testing (Rest Assured, Selenium), and stakeholder engagement.  
+
+🔹 Successfully managed a large-scale migration from GitLab CI to GitHub Actions, creating structured migration plans, automating daily progress reports, and mitigating risks across multiple repositories.
+
 🔹 I love building efficient, automated solutions that empower cross-functional teams and improve service delivery at scale.
+
 
 
 ---
