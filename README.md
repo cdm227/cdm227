@@ -166,10 +166,10 @@ My expertise bridges development, QA, and operations, with a strong focus on aut
   <a href="https://linkedin.com/in/calogero-di-mino-a328a5106" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:calogero.dimino@example.com">
+  <a href="mailto:calogero.dimino92@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://calogerodimino.es/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
